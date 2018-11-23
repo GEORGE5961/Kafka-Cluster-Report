@@ -54,7 +54,7 @@ Tracert（跟踪路由）是路由跟踪实用程序，用于确定 IP 数据报
 ping就是对一个网址发送测试数据包，看对方网址是否有响应并统计响应时间，以此测试网络。  
 ![avatar](network2.PNG)
 
-测速网站  
+### 测速网站  ###  
 采用的是  www.speedtest.cn 
 
 ![avatar](network3.PNG)
